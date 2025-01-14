@@ -1,4 +1,4 @@
-# Assignment 3: Image Classification with CNNs and Transfer Learning
+# Image Classification with CNNs and Transfer Learning
 
 ## Overview
 
