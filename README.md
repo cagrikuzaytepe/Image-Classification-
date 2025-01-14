@@ -60,4 +60,3 @@ This repository contains the implementation of image classification using a cust
 ├── best_resnet18_model.pth     # Trained ResNet18 model weights
 ├── best_mobilenet_model.pth    # Trained MobileNetV2 model weights
 ├── README.md                   # Project documentation
-└── requirements.txt            # Dependencies
