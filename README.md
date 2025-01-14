@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of **Assignment 3**, focusing on image classification using a custom **Convolutional Neural Network (CNN)** and **transfer learning** with pre-trained models such as **ResNet18** and **MobileNetV2**. The primary goal is to classify images from the Animal-10 dataset into 10 classes using deep learning techniques.
+This repository contains the implementation of image classification using a custom **Convolutional Neural Network (CNN)** and **transfer learning** with pre-trained models such as **ResNet50** and **MobileNetV2**. The primary goal is to classify images from the Animal-10 dataset into 10 classes using deep learning techniques.
 
 ### Objectives
 
